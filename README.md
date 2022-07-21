@@ -7,4 +7,6 @@ Clone the Project:
 Run the Project:
   python -m h2o_wave run app
   
+Project Video Drive Link: https://drive.google.com/file/d/1oUCukv8yEtj4jch6O4NZ8_Quj-yEq52U/view?usp=sharing
+  
   
